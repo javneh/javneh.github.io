@@ -1,0 +1,59 @@
+body {
+   font-family: Abhaya Libre;
+}
+
+
+h1 { font-size: 50px;
+         text-align: center;
+
+
+}
+h2 {text-align: center;
+  font-size: 35px;
+}
+
+h3 {
+  font-size: 25px;
+
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  text-align: center;
+    display: inline-block;
+    padding: 0 20px;
+    border: solid;
+    font-size: 25px;
+
+}
+ul {text-align: center;
+}
+.yellowbackground {
+  background-color: #FFF564;
+}
+
+.historybackground {
+  background-color: #3FAAAF;
+
+}
+
+form {
+    text-align: center;
+}
+
+.img1 {
+  width: 30%;
+  margin: 0 auto;
+  display: inline-block;
+
+}
+
+.imgcontainer {
+  width: 100%;
+  height: auto;
+  text-align: center;
+
+}
